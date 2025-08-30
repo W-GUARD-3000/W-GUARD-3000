@@ -23,7 +23,7 @@ It is designed to **monitor and protect your local network**, secure connected d
 4. Start the virtual machine and begin monitoring your network.
 
 **WEB.SITE:**  
-![WEB.SITE](https://sites.google.com/view/web-guard-3000/accueil)
+![WEB.SITE](https://sites.https://sites.google.com/view/web-guard-3000/accueil?authuser=0.com/view/web-guard-3000/accueil)
 
 ---
 
