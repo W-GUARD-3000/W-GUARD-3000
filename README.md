@@ -23,12 +23,12 @@ It is designed to **monitor and protect your local network**, secure connected d
 4. Start the virtual machine and begin monitoring your network.
 
 **WEB.SITE:**  
-**[Download](https://ko-fi.com/web.guard.3000)**.
+**[Download](https://ko-fi.com/wguard3000)**.
 
 
 ## 💖 Support
 
-If you like this project and want to support it, please consider contributing via **[Ko-fi](https://ko-fi.com/web.guard.3000)**.  
+If you like this project and want to support it, please consider contributing via **[Ko-fi](https://ko-fi.com/wguard3000)**.  
 Your support helps us improve and develop new features! ☕✨
 
 ---
